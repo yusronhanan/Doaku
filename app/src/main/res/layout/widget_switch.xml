@@ -1,0 +1,12 @@
+<com.kyleduo.switchbutton.SwitchButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sb_text"
+    style="@style/SwitchButtonStyle"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:textColor="#FFFFFF"
+    android:textSize="16dp"
+    app:kswTextOff="Off"
+    app:kswTextOn="On"
+    tools:targetApi="ICE_CREAM_SANDWICH" />
